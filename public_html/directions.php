@@ -20,32 +20,20 @@
         </thead>
         <tbody>
           <tr>
-            <td>Monday</td>
-            <td>van Trierzaal (Traverse Building)</td>
-            <td class="time">12:00</td>
-            <td class="time">17:00</td>
-          </tr>
-          <tr>
-            <td>Tuesday</td>
-            <td>MF 13 (MetaForum Building)</td>
+            <td>TBD</td>
+            <td>TBD</td>
             <td class="time">9:00</td>
             <td class="time">18:00</td>
           </tr>
           <tr>
-            <td>Wednesday</td>
-            <td>MF 6 (MetaForum Building)</td>
+            <td>TBD</td>
+            <td>TBD</td>
             <td class="time">9:00</td>
             <td class="time">18:00</td>
           </tr>
           <tr>
-            <td>Thursday</td>
-            <td>MF 6 (MetaForum Building)</td>
-            <td class="time">9:00</td>
-            <td class="time">18:00</td>
-          </tr>
-          <tr>
-            <td>Friday</td>
-            <td>MF 13 (MetaForum Building)</td>
+            <td>TBD</td>
+            <td>TBD</td>
             <td class="time">9:00</td>
             <td class="time">18:00</td>
           </tr>

@@ -16,6 +16,14 @@
       <div class="well businesscard">
         <div class="universitylogo"><img src="images/leidenuniversity.png" /></div>
           <div>
+            <p>Bernd Bischl &lt; 	bernd.bischl %at% stat.uni-muenchen.de&gt;</p>
+            <p>Universität München</p>
+            <p><a href="http://www.statistik.lmu.de/~bischl/" target="_blank">http://www.statistik.lmu.de/~bischl/</a></p>
+        </div>
+      </div>
+      <div class="well businesscard">
+        <div class="universitylogo"><img src="images/leidenuniversity.png" /></div>
+          <div>
             <p>Jan van Rijn &lt;j.n.van.rijn@liacs.leidenuniv.nl&gt;</p>
             <p>Leiden University</p>
             <p><a href="http://liacs.leidenuniv.nl/~rijnjnvan/" target="_blank">http://liacs.leidenuniv.nl/~rijnjnvan/</a></p>

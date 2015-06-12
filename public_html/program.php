@@ -7,7 +7,7 @@
   </div>
   <div class="col-sm-6">
     <div>
-      <h2>Tuesday 21st - Friday 24th of October</h2>
+      <h2>September 2015</h2>
       <p><a href="directions.php">Room MF 6 & MF 13, Metaforum Building</a></p>
       <p>OpenML is all about <a target="_blank" href="http://arxiv.org/abs/1407.7722">Networked Machine Learning</a>. It offers researchers a new way of organizing results and building upon each other's work.</p>
       <p>The workshop is organized as a hackathon: bring your own laptop, play around with OpenML, and create something great to push your research forward. The complete OpenML team will be available to get you started, answer questions, or even implement new features on the fly. OpenML is an open source project, and everyone is welcome to join.</p>
