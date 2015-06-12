@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="well businesscard">
-        <div class="universitylogo"><img src="images/leidenuniversity.png" /></div>
+        <div class="universitylogo"></div>
           <div>
             <p>Bernd Bischl &lt; 	bernd.bischl %at% stat.uni-muenchen.de&gt;</p>
             <p>Universität München</p>
