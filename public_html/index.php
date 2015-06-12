@@ -21,17 +21,6 @@
             </div>
           </div>
           <div class="item">
-            <img src="images/metaforum.jpg" alt="Second slide">
-            <div class="container">
-              <div class="carousel-caption">
-                <h1>Research different</h1>
-                <p>OpenML is a place where scientists can freely share and reuse data, tools and experiments, and help other scientists (and students) to explore and use machine learning techniques in practice.</p>
-		<p>Learn about interdisciplinary applications from Prof. Dr. Ross King, how OpenML is readily integrated in many machine learning tools, and how to get started.</p>
-                <p><a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1eo8K_7ulkLjoCcKfkoCz-Xw1mj80lZISIBYISVoEHns/viewform?c=0&w=1" target="_blank" role="button">Register now</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="item">
             <img src="images/center.jpg" alt="Third slide">
             <div class="container">
               <div class="carousel-caption">
