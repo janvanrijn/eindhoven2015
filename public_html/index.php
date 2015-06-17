@@ -5,6 +5,7 @@
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
           <div class="item active">
@@ -16,6 +17,17 @@
                 <p>OpenML aims to connect data, tools, and people online to do machine learning better, together.</p>
                 <p>Learn all about networked machine learning from prominent speakers, meet a helpful community of researchers, and break out your laptop to get started in the Hackathon.</p>
                 <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Scientific program and Hackathon</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <img src="images/metaforum.jpg" alt="Second slide">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>Research different</h1>
+                <p>OpenML is a place where scientists can freely share and reuse data, tools and experiments, and help other scientists (and students) to explore and use machine learning techniques in practice.</p>
+		<p>Learn about interdisciplinary applications, how OpenML is readily integrated in many machine learning tools, and how to get started.</p>
+                <p><a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1gpVWWXHRCzvsMe9OwCYBLGmOIuPx4Mwyn2kF-s_s_gY/viewform?usp=send_form" target="_blank" role="button">Register now</a></p>
               </div>
             </div>
           </div>

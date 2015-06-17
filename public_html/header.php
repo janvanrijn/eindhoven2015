@@ -1,7 +1,7 @@
 <?php $pages = array( 
         'Home' => 'index.php', 
         'Program' => 'program.php', 
-   //     'Register' => 'https://docs.google.com/forms/d/1eo8K_7ulkLjoCcKfkoCz-Xw1mj80lZISIBYISVoEHns/viewform?c=0&amp;w=1',
+        'Register' => 'https://docs.google.com/forms/d/1gpVWWXHRCzvsMe9OwCYBLGmOIuPx4Mwyn2kF-s_s_gY/viewform?usp=send_form',
         'Directions' => 'directions.php', 
         'Contact' => 'contact.php' ); 
         $script_name = explode( '/', $_SERVER['SCRIPT_NAME'] );
