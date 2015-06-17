@@ -20,19 +20,19 @@
         </thead>
         <tbody>
           <tr>
-            <td>TBD</td>
-            <td>TBD</td>
-            <td class="time">9:00</td>
-            <td class="time">18:00</td>
-          </tr>
-          <tr>
-            <td>TBD</td>
+            <td>September 2nd, Monday</td>
             <td>TBD</td>
             <td class="time">9:00</td>
             <td class="time">18:00</td>
           </tr>
           <tr>
+            <td>September 3rd, Tuesday</td>
             <td>TBD</td>
+            <td class="time">9:00</td>
+            <td class="time">18:00</td>
+          </tr>
+          <tr>
+            <td>September 4th, Wednesday</td>
             <td>TBD</td>
             <td class="time">9:00</td>
             <td class="time">18:00</td>
