@@ -21,7 +21,7 @@
             </div>
           </div>
           <div class="item">
-            <img src="images/eindhoven2.jpg" alt="Second slide">
+            <img src="images/metaforum.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Research different</h1>
