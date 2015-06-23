@@ -1,10 +1,10 @@
 <?php require('header.php'); ?>
 <div class="container">
-  <div class="small-pagefill"><img src="images/eindhoven2.jpg" alt="Eindhoven City" /></div>
+  <div class="small-pagefill"><img src="images/eindhoven2.jpg" alt="Eindhoven City" width="400"/></div>
     <div>
       <h2>Contact</h2>
       <p>For all questions regarding the workshop and logistics, please don't hesitate to email the organizers. </p>
-      
+
       <div class="well businesscard">
         <div class="universitylogo"><img src="images/tue.png" /></div>
           <div>
@@ -16,7 +16,7 @@
       <div class="well businesscard">
         <div class="universitylogo"></div>
           <div>
-            <p>Bernd Bischl &lt; 	bernd.bischl %at% stat.uni-muenchen.de&gt;</p>
+            <p>Bernd Bischl &lt; 	bernd.bischl@stat.uni-muenchen.de&gt;</p>
             <p>Universität München</p>
             <p><a href="http://www.statistik.lmu.de/~bischl/" target="_blank">http://www.statistik.lmu.de/~bischl/</a></p>
         </div>

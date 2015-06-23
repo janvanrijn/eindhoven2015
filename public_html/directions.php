@@ -6,42 +6,15 @@
       <p>Eindhoven has its own airport and is well-connected to Amsterdam Airport. The workshop will be held at the TU/e campus, next to the train station and within walking distance of the old town centre. <a href="http://www.tue.nl/en/university/about-the-university/accessibility-tue-campus/">Full directions to the TU/e campus here</a>.</p>
 
       <h3>Workshop Venues</h3>
-      <p>The workshop venues are indicated on the map on the right. The scientific program on Monday will take place in the Traverse building, while the Hackathon will be held in the Metaforum.</p>
-      <p>Check the overview below for the exact locations:</p>
-      
-      <table id="schedule">
-        <thead>
-          <tr>
-            <td>Day</td>
-            <td>Location</td>
-            <td class="time">Start</td>
-            <td class="time">End</td>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>September 2nd, Monday</td>
-            <td>TBD</td>
-            <td class="time">9:00</td>
-            <td class="time">18:00</td>
-          </tr>
-          <tr>
-            <td>September 3rd, Tuesday</td>
-            <td>TBD</td>
-            <td class="time">9:00</td>
-            <td class="time">18:00</td>
-          </tr>
-          <tr>
-            <td>September 4th, Wednesday</td>
-            <td>TBD</td>
-            <td class="time">9:00</td>
-            <td class="time">18:00</td>
-          </tr>
-        </tbody>
-      </table>
+      <p>The workshop venues are indicated on the map on the right. The Hackathon will be held in the Metaforum building on the TU/e campus.</p>
+
 
       <h3>Hackathon Hotel</h3>
-      <p>For students looking for affordable accommodation, we recommend the following hotel: <a href="http://www.hotelvanneer.nl/en/index.html">Hotel van Neer</a>. It is a short walk from campus, has decent rooms, and prices are around 50 euro per night, including breakfast.</p>
+      <p>Some affordable hotels that are nearby:</p>
+      <ul>
+        <li><a href="http://www.booking.com/hotel/nl/queenhotelcafe.html">Queen Hotel</a>. Nice but affordable, and right in the city center.</li>
+        <li><a href="http://www.hotelvanneer.nl/en/index.html">Hotel van Neer</a>. Cheaper but further from the city center.</li>
+      </ul>
     </div>
 </div>
 <?php require('footer.php'); ?>

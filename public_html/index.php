@@ -1,5 +1,5 @@
 <?php require('header.php'); ?>
-<section class="block">
+<div class="block">
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -32,7 +32,7 @@
             </div>
           </div>
           <div class="item">
-            <img src="images/center.jpg" alt="Second slide">
+            <img src="images/eindhoven4.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
                 <h1>Hotels and directions</h1>
@@ -45,5 +45,9 @@
         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
       </div>
-</section>
-<?php require('footer.php'); ?>
+</div>
+
+
+    <div class="footer">
+        <img height="60" src="images/lmu.jpg" style="padding-right:10px;"/> OpenML 2015 is supported by the <a href="http://www.statistik.lmu.de/" target="_blank">LMU Institut fur Statistik</a>
+    </div>
