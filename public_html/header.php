@@ -1,9 +1,9 @@
-<?php $pages = array( 
-        'Home' => 'index.php', 
-        'Program' => 'program.php', 
+<?php $pages = array(
+        'Home' => 'index.php',
+        'Program' => 'program.php',
         'Register' => 'https://docs.google.com/forms/d/1gpVWWXHRCzvsMe9OwCYBLGmOIuPx4Mwyn2kF-s_s_gY/viewform?usp=send_form',
-        'Directions' => 'directions.php', 
-        'Contact' => 'contact.php' ); 
+        'Directions' => 'directions.php',
+        'Contact' => 'contact.php' );
         $script_name = explode( '/', $_SERVER['SCRIPT_NAME'] );
         $script_name = end( $script_name );
         ?><!DOCTYPE html>
@@ -29,7 +29,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -49,7 +49,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Eindhoven 2015</a>
+          <a class="navbar-brand" href="index.php">OpenML 2015</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -60,4 +60,3 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
-

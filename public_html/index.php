@@ -49,5 +49,5 @@
 
 
     <div class="footer">
-        <img height="60" src="images/lmu.jpg" style="padding-right:10px;"/> OpenML 2015 is supported by the <a href="http://www.statistik.lmu.de/" target="_blank">LMU Institut fur Statistik</a>
+        <img height="60" src="images/lmu.jpg" style="padding-right:10px;"/> OpenML 2015 is supported by the <a href="http://www.statistik.lmu.de/" target="_blank">LMU Department of Statistics</a>
     </div>
