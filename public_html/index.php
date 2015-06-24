@@ -16,7 +16,7 @@
 		<p>September 2-4, 2015</p>
                 <p>OpenML aims to connect data, tools, and people online to do machine learning better, together.</p>
                 <p>Learn all about networked machine learning from prominent speakers, meet a helpful community of researchers, and break out your laptop to get started in the Hackathon.</p>
-                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Hackathon</a></p>
+                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Program</a></p>
               </div>
             </div>
           </div>
